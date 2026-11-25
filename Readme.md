@@ -23,7 +23,7 @@ A powerful, production-quality Todo application built with **pure HTML, CSS, and
 - 🔁 **Unmark Completed** – Restore completed tasks to active
 - 📊 **Task Count** – Display "X tasks left" (active tasks only)
 - 🗑️ **Clear All** – Remove all tasks (with confirmation)
-- 🧹 **Clear Completed** – Remove only completed tasks
+- 🧹 **Clear Completed** – Remove completed tasks
 
 ### Advanced Features
 
